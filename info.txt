@@ -1,0 +1,8 @@
+cmd------------
+laravel download cmd
+
+> composer create-project laravel/laravel laravel
+
+> php artisan serve  // for run the server
+
+> php artisan serve --port 3000  // will run in port number 3000 (custom port)
